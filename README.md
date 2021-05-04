@@ -1,1 +1,1 @@
-# whatsapp_mern
+# whatsapp-clone
